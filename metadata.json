@@ -1,0 +1,6 @@
+{
+  "name": "MJ Garments Sales Tracker",
+  "description": "Real-time sales & expense tracking and end-of-day cash tally for MJ Garments Broadway, Kerala",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Dark rounded badge background -->
+    <path
+        android:fillColor="#121212"
+        android:pathData="M16,8 L80,8 A8,8 0 0,1 88,16 L88,80 A8,8 0 0,1 80,88 L16,88 A8,8 0 0,1 8,80 L8,16 A8,8 0 0,1 16,8 Z" />
+    <!-- Gold accent border -->
+    <path
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M19,11 L77,11 A5,5 0 0,1 82,16 L82,74 A5,5 0 0,1 77,79 L19,79 A5,5 0 0,1 14,74 L14,16 A5,5 0 0,1 19,11 Z" />
+    <!-- Letter M -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M24,62 L24,30 L30,30 L38,48 L46,30 L52,30 L52,62 L46,62 L46,40 L39,56 L37,56 L30,40 L30,62 Z" />
+    <!-- Letter J -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M56,30 L70,30 L70,36 L64,36 L64,54 C64,59 60.5,62.5 55,62.5 C51,62.5 48.5,60.5 47.5,58 L52.5,55 C53,56.5 54.5,57.5 56.5,57.5 C58.5,57.5 59.5,56 59.5,53.5 L59.5,30 Z" />
+    <!-- Bottom subtext underline / dots -->
+    <path
+        android:fillColor="#C9A227"
+        android:pathData="M36,70 L60,70 L60,72 L36,72 Z" />
+</vector>

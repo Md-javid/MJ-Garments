@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer gold accent diamond/ring -->
+    <path
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000"
+        android:pathData="M54,23 L85,54 L54,85 L23,54 Z" />
+    <!-- Letter M (Gold/Champagne) -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M32,68 L32,40 L38,40 L45,56 L52,40 L58,40 L58,68 L52,68 L52,49 L46,63 L44,63 L38,49 L38,68 Z" />
+    <!-- Letter J (Interlocking Gold) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M63,40 L76,40 L76,45 L70,45 L70,61 C70,66 66.5,69 61,69 C57,69 54,67 53,64.5 L58,61.5 C58.5,62.8 60,63.8 62,63.8 C64,63.8 65,62.5 65,60.5 L65,40 Z" />
+    <!-- Bottom Brand Dots -->
+    <path
+        android:fillColor="#C9A227"
+        android:pathData="M51,75 A2,2 0 1,1 50.9,75 Z M57,75 A2,2 0 1,1 56.9,75 Z" />
+</vector>
